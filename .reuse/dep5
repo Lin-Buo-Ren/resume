@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Redirector site for https://brlin.me/resume
+Upstream-Contact: Issues · Lin-Buo-Ren/resume <https://github.com/Lin-Buo-Ren/resume/-/issues>
+Source: https://github.com/Lin-Buo-Ren/resume
+
+Files:
+ *README.md
+ */README.md
+Copyright: 2023 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+License: CC-BY-SA-4.0+
